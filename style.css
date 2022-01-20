@@ -1,0 +1,99 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background: lightgrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    }
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(255, 122, 211);
+}
+
+span {
+    font-weight: 700;
+    color: olivedrab;
+}
+
+.boxes {
+    margin: 5px;
+    padding: 2px;
+    border: 2px solid black;
+    width: 30em;
+    border-radius: 5px;
+    display: block;
+}
+
+#box1 {
+    background-color: palegoldenrod;
+}
+#box2 {
+    background-color: paleturquoise;
+    /*position: relative;*/
+    /* bottom: 40rem;
+    left: 31rem;
+    position: absolute; */
+}
+#box3 {
+    background-color: palevioletred;
+}
+#box4 {
+    background-color: palegreen;
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: chocolate;
+    position: absolute;
+    left: 3rem;
+}
+
+h1 {
+    color: rebeccapurple;
+}
+
+.original {
+    color: saddlebrown;
+}
+.additional {
+    color: seagreen;
+}
+#show1 {
+    color: snow;
+}
+#show2 {
+    color: tomato;
+}
+#show3 {
+    color: black;
+}
+#show4 {
+    color: chartreuse;
+}
+#show5 {
+    color: darkgoldenrod;
+}
+
+ul {
+    color: darkred;
+}
+.star {
+    color: green;
+}
+#wars {
+    color: yellow;
+}
+.list {
+    border: 2px solid black;
+}
+
+ 
